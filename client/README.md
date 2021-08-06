@@ -3,6 +3,9 @@
 ## Main Page
 ![Main App](https://user-images.githubusercontent.com/1881636/128435042-7ca6446d-cb58-4a99-ab6f-28423a34fe4b.png)
 
+## Synopsis
+![Detail](https://user-images.githubusercontent.com/1881636/128440702-f81ec22d-ca66-49ea-b1a9-af9df34f98f9.png)
+
 ### Search by title
 ![Filter_title](https://user-images.githubusercontent.com/1881636/128440577-5a3646d4-972a-4ea0-9669-f3ded664ad3e.png)
 
